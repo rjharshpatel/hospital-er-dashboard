@@ -108,17 +108,7 @@ Referrals: ~5,400 patients needed no referral — possible cases for urgent care
 Demographics: Adults 30–39 are the most frequent ER visitors — targeted outreach opportunity
 Satisfaction: Score of 4.99/10 highlights experience gaps worth investigating
 ---
-📂 Repository Structure
-```
-hospital-er-dashboard/
-├── Hospital.pbix               ← Power BI project file
-├── README.md                   ← Project documentation
-└── screenshots/
-    ├── monthly-view.png
-    ├── consolidated-view.png
-    ├── patient-details.png
-    └── key-takeaways.png
-```
+
 ---
 🙋 Author
 Harsh Raj
